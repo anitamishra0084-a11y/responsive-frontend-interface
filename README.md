@@ -42,7 +42,7 @@ The website is optimized for:
 - Mobile
 
 ##  Author
-Anita Mishra
+
 **Anita Mishra**
 
 AI & Machine Learning Intern
